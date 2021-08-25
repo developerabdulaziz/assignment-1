@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+/*
+.flex {
+    display: flex;
+    margin-bottom: 50px;
+}
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 80px;
+}
+.half-width img {
+    width: 80%;
+}
+.blue {
+    color: limegreen;
+}
+.half-width p {
+    font-weight: 500;
+}
+.button {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(green, lime);
+    border-radius: 20px;
+    padding: 10px 40px;
+    
+}
+.about-sec img{ 
+    height: 400px;
+    width: 100%;
+    display: inline-block;
+    padding-top: 35px;
+    
+}
+/*****--------------------------------
+.about-sec {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-sec h2 {
+    padding-top: 120px;
+    text-transform: capitalize;
+}
+.about-sec p {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+
+/*============================
+.recipi {
+    margin-bottom: 50px;
+}
+.recipi-class {
+    text-align: center;
+    text-transform: capitalize;
+    width: 100%;
+    margin-bottom: 80px;
+}
+.recipi .half-width {
+    padding:0 45px;
+    margin-bottom: 100px;
+}
+/***************************=============================================********---*/
+
+.flex {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 80px;
+}
+
+.half-width img {
+    width: 80%;
+}
+.blue {
+    color: rgb(15, 228, 15);
+    
+}
+.button {
+    text-decoration: none;
+    text-transform: uppercase;
+    background-image: linear-gradient(rgb(54, 166, 185), rgb(69, 224, 69));
+    font-weight: bold;
+    border-radius: 15px;
+    padding: 15px 45px;
+}
+/*===================*/
+.about-section img {
+    width: 200px;
+    height: 400px;
+    padding-left: 100px;
+}
+.about-section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.about-section p {
+    padding-top: 30px;
+    padding-bottom: 90px;
+    word-spacing: 15px;
+}
+
+/*===========================*/
+
+.recipi-class {
+    width: 100%;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 5px;
+}
+
+.recipies-parents{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.recipies-title{
+    width: 25%;
+    height: 100;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 5px 5px 40px;
+    border-radius: 15px;
+}
+.recipies-title img {
+    width: 300px;
+    margin-top: 7px;
+
+}
+
+/*===================*/
+
+.number {
+    display: flex;
+    width: 1000px;
+    margin: 200px;
+    box-shadow: 5px 5px 30px ;
+}
+.nmbr {
+    width: 250px;
+    padding: 20px;
+}
