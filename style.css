@@ -82,8 +82,25 @@ body {
     width: 1000px;
     margin: 200px;
     box-shadow: 5px 5px 30px ;
+    border-radius: 10px;
 }
 .nmbr {
     width: 250px;
-    padding: 20px;
+    padding-left: 60px;
+}
+.nmbr h1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+/*===========================*/
+footer {
+   text-align: center;
+   background-color: rgb(72, 173, 173);
+   padding: 30px;
+}
+h1 {
+    text-transform: uppercase;
+}
+.lime {
+    color: lime;
 }
